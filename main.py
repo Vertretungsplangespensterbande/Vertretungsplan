@@ -5,8 +5,9 @@ import datetime
 
 full_date = datetime.datetime.now()
 # %d = day; %m = month; %Y = full year
-#date = full_date.strftime("%Y%m%d")
-date = "20260227"
+date = full_date.strftime("%Y%m%d")
+display_date = full_date.strftime("%d.%B %Y")
+
 url = "https://hh5655.webuntis.com/WebUntis/monitor/substitution/data?school=hh5655"
 
 request_body = {"formatName":"schueler",
@@ -61,7 +62,7 @@ dataframe.to_csv("plan_2.csv", index=False)
 groups_today = list(set(dataframe["group"].tolist()))
 groups_today.sort()
 
-
+st.write(display_date)
 
 group = st.selectbox("Klasse", groups_today)
 
