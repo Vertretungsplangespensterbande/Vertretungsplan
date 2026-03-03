@@ -64,8 +64,9 @@ groups_today.sort()
 
 st.write(display_date)
 
-group = st.selectbox("Klasse", groups_today)
+st.write("**Heutiger Vertretungsplan:**/nIn der Auswahlbox werden die Klassen angezeigt, die heute auf dem Plan stehen. Wenn deine nicht dabei ist, brauchst du gar nicht erst gucken... Der Inhalt ist derselbe wie auf der Website in Iserv.")
 
+group = st.selectbox("Klasse", groups_today)
 
 filtered_frame = dataframe[dataframe["group"] == group]
 filtered_frame = filtered_frame["data"]
