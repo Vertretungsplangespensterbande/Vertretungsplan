@@ -3,7 +3,15 @@ import pandas as pd
 import requests as r
 import datetime
 
-full_date = datetime.datetime.now()
+st.set_page_config(layout="wide")
+
+tag = st.selectbox("Tag", ["Heute", "Morgen"])
+
+if tag == "Heute":
+    full_date = datetime.datetime.today()
+if tag == "Morgen":
+    full_date = datetime.date.today() + datetime.timedelta(days=1)
+
 # %d = day; %m = month; %Y = full year
 date = full_date.strftime("%Y%m%d")
 display_date = full_date.strftime("%d.%B %Y")
@@ -16,16 +24,16 @@ request_body = {"formatName":"schueler",
                 "dateOffset":0,
                 "strikethrough":True,
                 "mergeBlocks":True,
-                "showOnlyFutureSub":True,
+                "showOnlyFutureSub":False,
                 "showBreakSupervisions":False,
                 "showTeacher":True,
                 "showClass":True,
                 "showHour":True,
-                "showInfo":False,
+                "showInfo":True,
                 "showRoom":True,
                 "showSubject":True,
                 "groupBy":1,
-                "hideAbsent":False,
+                "hideAbsent":True,
                 "departmentIds":[],
                 "departmentElementType":1,
                 "hideCancelWithSubstitution":False,
@@ -40,8 +48,8 @@ request_body = {"formatName":"schueler",
                 "enableSubstitutionFrom":False,
                 "showSubstitutionFrom":1200,
                 "showTeacherOnEvent":False,
-                "showAbsentTeacher":True,
-                "strikethroughAbsentTeacher":True,
+                "showAbsentTeacher":False,
+                "strikethroughAbsentTeacher":False,
                 "activityTypeIds":[4],
                 "showEvent":True,
                 "showCancel":True,
@@ -57,14 +65,23 @@ print(json_response)
 
 dataframe = pd.DataFrame(data=json_response["payload"]["rows"]) 
 dataframe = dataframe.drop(["cellClasses", "cssClasses"], axis=1)
-dataframe.to_csv("plan_2.csv", index=False)
+dataframe.to_csv("plan_today.csv", index=False)
+
+absent_elements = json_response["payload"]["absentElements"]
+absent_classes = [klasse["elementName"] for klasse in absent_elements] 
+    
+absent_class_names = ", ".join(absent_classes)
 
 groups_today = list(set(dataframe["group"].tolist()))
 groups_today.sort()
 
 st.write(display_date)
 
-st.write("**Heutiger Vertretungsplan:**")
+st.header("Vertretungsplan " + tag + ":")
+
+
+st.write("Abwesend: " + str(absent_class_names)) 
+
 st.write("In der Auswahlbox werden die Klassen angezeigt, die heute auf dem Plan stehen. Wenn deine nicht dabei ist, brauchst du gar nicht erst gucken... Der Inhalt ist derselbe wie auf der Website in Iserv.")
 group = st.selectbox("Klasse", groups_today)
 
@@ -80,9 +97,10 @@ else:
     for i in range(0, number_rows):
         data = filtered_frame.iloc[i]
         for (column,section) in zip(table_columns,data):
-            if section.startswith("<span"):
+            if "<span" in section:
                 #<span class=""substMonitorSubstElem"">---</span> (<span class=""cancelStyle"">Ge</span>)
                 #<span class=""substMonitorSubstElem"">F106</span> (D13)
+                #<span class=""substMonitorSubstElem"">Kor</span> (<span class=""cancelStyle"">Aga</span>)
                 section = section.replace('"',"")
                 section = section.replace("<span class=substMonitorSubstElem>", "")    
                 section = section.replace("</span>", "")

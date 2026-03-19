@@ -1,0 +1,19 @@
+data,group
+"['6', '12:40-13:25', '10e', 'Ges7-10', 'H214', 'Rav', '']",10e
+"['3 - 4', '09:50-11:20', '11a', 'D11-13', 'D01', '<span class=""substMonitorSubstElem"">---</span> (<span class=""cancelStyle"">Ws</span>)', 'Aufgaben bei iServ']",11a
+"['5 - 6', '11:50-13:25', '13c', 'Psy12-13', 'B11', '<span class=""substMonitorSubstElem"">---</span> (<span class=""cancelStyle"">Dar</span>)', 'Aufgaben bei iServ']",13c
+"['5 - 6', '11:50-13:25', '13d', 'Bio12/13', 'B13', '<span class=""substMonitorSubstElem"">---</span> (<span class=""cancelStyle"">Bue</span>)', 'Aufgaben bei iServ']",13d
+"['1 - 2', '08:00-09:30', '5a', 'Ink', 'A101', '<span class=""substMonitorSubstElem"">Boy</span> (<span class=""cancelStyle"">Wal</span>)', '']",5a
+"['4', '10:35-11:20', '5a', 'Ink', 'A101', '<span class=""substMonitorSubstElem"">Meh</span> (<span class=""cancelStyle"">Wal</span>)', '']",5a
+"['6', '12:40-13:25', '5d', 'FöM', 'A108', 'Kra', 'Mathe sicher können (Kra): Ggf. Betreuung durch GWE']",5d
+"['4', '10:35-11:20', '6e', 'FöM', 'A009', '<span class=""substMonitorSubstElem"">Wi</span> (<span class=""cancelStyle"">Kra</span>)', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",6e
+"['5', '11:50-12:35', '7c', 'FöM', 'A203', '<span class=""substMonitorSubstElem"">Cla</span> (<span class=""cancelStyle"">Kra</span>)', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",7c
+"['1 - 2', '08:00-09:30', '7e, 7f, 7g, 7h', 'DSP', '<span class=""substMonitorSubstElem"">G02</span> (E25)', '<span class=""substMonitorSubstElem"">Aga</span> (<span class=""cancelStyle"">Dar</span>)', 'Theaterkurs Dar: 1./2. Std. Betreuung soweit notwendig']",7e
+"['1 - 2', '08:00-09:30', '7e, 7f, 7g, 7h', 'DSP', '<span class=""substMonitorSubstElem"">G02</span> (E25)', '<span class=""substMonitorSubstElem"">Aga</span> (<span class=""cancelStyle"">Dar</span>)', 'Theaterkurs Dar: 1./2. Std. Betreuung soweit notwendig']",7f
+"['5', '11:50-12:35', '7f', 'Ink', 'A209', '<span class=""substMonitorSubstElem"">Sn</span> (<span class=""cancelStyle"">Wo</span>)', '']",7f
+"['1 - 2', '08:00-09:30', '7e, 7f, 7g, 7h', 'DSP', '<span class=""substMonitorSubstElem"">G02</span> (E25)', '<span class=""substMonitorSubstElem"">Aga</span> (<span class=""cancelStyle"">Dar</span>)', 'Theaterkurs Dar: 1./2. Std. Betreuung soweit notwendig']",7g
+"['1 - 2', '08:00-09:30', '7e, 7f, 7g, 7h', 'DSP', '<span class=""substMonitorSubstElem"">G02</span> (E25)', '<span class=""substMonitorSubstElem"">Aga</span> (<span class=""cancelStyle"">Dar</span>)', 'Theaterkurs Dar: 1./2. Std. Betreuung soweit notwendig']",7h
+"['5 - 6', '11:50-13:25', '9a', 'Spo', 'Halle1', 'Ka', '']",9a
+"['0 - 10', '00:00-23:59', '9c', '', '', 'Bue, Ws', 'Austausch Spanien']",9c
+"['1 - 2', '08:00-09:30', '9c', 'M5-10', 'H009', 'Ge', '']",9c
+"['5 - 6', '11:50-13:25', '9c', 'Phy', 'F105', 'Ca', '']",9c
