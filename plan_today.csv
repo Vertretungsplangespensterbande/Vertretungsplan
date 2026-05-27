@@ -1,103 +1,40 @@
 data,group
-"['7 - 8', '13:55-15:25', '10c', 'Ges7-10', 'H219', 'Co', 'Entfall', '']",10c
+"['4', '10:35-11:20', '10c', 'ExpEs', '<span class=""substMonitorSubstElem"">H219</span> (H201)', '<span class=""substMonitorSubstElem"">Kls</span>', '', 'Schüler aus dem Expertenkurs gehen in den Klassenunterricht']",10c
 "['7', '13:55-14:40', '10d', 'Ink', 'H211', '<span class=""substMonitorSubstElem"">Dr</span>', '', '']",10d
-"['7', '13:55-14:40', '10e', 'Stud', 'H214', 'Beh', 'Entfall', '']",10e
-"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'Mu11', 'E20', '<span class=""substMonitorSubstElem"">---</span>', '', 'Musik (Ciu): Aufgaben bei iServ']",11a
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",11a
-"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'Mu11', 'E20', '<span class=""substMonitorSubstElem"">---</span>', '', 'Musik (Ciu): Aufgaben bei iServ']",11b
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",11b
-"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'Mu11', 'E20', '<span class=""substMonitorSubstElem"">---</span>', '', 'Musik (Ciu): Aufgaben bei iServ']",11c
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",11c
-"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'Mu11', 'E20', '<span class=""substMonitorSubstElem"">---</span>', '', 'Musik (Ciu): Aufgaben bei iServ']",11d
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",11d
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",12a
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",12b
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",12d
-"['6', '12:40-13:25', '13a, 13b, 13c, 13d', 'D11-13', 'B01', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Slue: Aufgaben bei iServ']",13a
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",13a
-"['6', '12:40-13:25', '13a, 13b, 13c, 13d', 'D11-13', 'B01', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Slue: Aufgaben bei iServ']",13b
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",13b
-"['6', '12:40-13:25', '13a, 13b, 13c, 13d', 'D11-13', 'B01', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Slue: Aufgaben bei iServ']",13c
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",13c
-"['6', '12:40-13:25', '13a, 13b, 13c, 13d', 'D11-13', 'B01', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Slue: Aufgaben bei iServ']",13d
-"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle3', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Fitness/Badminton (Du): Selbstständiges Training']",13d
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5a
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5a
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5g', 'FöSLF', '<span class=""substMonitorSubstElem"">G02</span> (A001)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Sprachfördern (Mit): Betreuung im Q-Raum soweit notwendig']",5a
-"['1 - 2', '08:00-09:30', '5b', 'Ink', 'A102', '<span class=""substMonitorSubstElem"">Abba</span>', '', '']",5b
-"['3', '09:50-10:35', '5b', 'Ink', 'A102', '<span class=""substMonitorSubstElem"">Gj</span>', '', '']",5b
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5b
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5b
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5g', 'FöSLF', '<span class=""substMonitorSubstElem"">G02</span> (A001)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Sprachfördern (Mit): Betreuung im Q-Raum soweit notwendig']",5b
-"['3', '09:50-10:35', '5c', 'FöM', '<span class=""substMonitorSubstElem"">A103</span> (A101)', '<span class=""substMonitorSubstElem"">Mat</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",5c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5g', 'FöSLF', '<span class=""substMonitorSubstElem"">G02</span> (A001)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Sprachfördern (Mit): Betreuung im Q-Raum soweit notwendig']",5c
-"['1 - 2', '08:00-09:30', '5d', 'Ges5/6', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', '1./2. Std. Betreuung im Q-Raum (soweit notwendig)']",5d
-"['3', '09:50-10:35', '5d', 'D5/6', 'A108', '<span class=""substMonitorSubstElem"">Ge</span>', '', '']",5d
-"['4', '10:35-11:20', '5d', 'D5/6', 'A108', '<span class=""substMonitorSubstElem"">Sf</span>', '', '']",5d
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5d
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5d
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5g', 'FöSLF', '<span class=""substMonitorSubstElem"">G02</span> (A001)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Sprachfördern (Mit): Betreuung im Q-Raum soweit notwendig']",5d
-"['4', '10:35-11:20', '5e', 'Ink', 'A109', '<span class=""substMonitorSubstElem"">Boy</span>', '', '']",5e
-"['5 - 6', '11:50-13:25', '5e', 'Ink', 'A109', '<span class=""substMonitorSubstElem"">To</span>', '', '']",5e
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5e
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5e
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5f
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5f
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",5g
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",5g
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5g', 'FöSLF', '<span class=""substMonitorSubstElem"">G02</span> (A001)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Sprachfördern (Mit): Betreuung im Q-Raum soweit notwendig']",5g
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",6a
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",6a
-"['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G11)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Do it yourself (Stat): Betreuung im Q-Raum soweit notwendig']",6a
+"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'BKOS', 'G11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kunstkurs Wah: Aufgaben bei iServ']",11a
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",11a
+"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'BKOS', 'G11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kunstkurs Wah: Aufgaben bei iServ']",11b
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",11b
+"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'BKOS', 'G11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kunstkurs Wah: Aufgaben bei iServ']",11c
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",11c
+"['5 - 6', '11:50-13:25', '11a, 11b, 11c, 11d', 'BKOS', 'G11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kunstkurs Wah: Aufgaben bei iServ']",11d
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",11d
+"['1 - 2', '08:00-09:30', '12a, 12b, 12c, 12d', 'E12-13', 'C11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Bs: Aufgaben bei iServ']",12a
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",12a
+"['1 - 2', '08:00-09:30', '12a, 12b, 12c, 12d', 'E12-13', 'C11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Bs: Aufgaben bei iServ']",12b
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",12b
+"['1 - 2', '08:00-09:30', '12a, 12b, 12c, 12d', 'E12-13', 'C11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Bs: Aufgaben bei iServ']",12c
+"['1 - 2', '08:00-09:30', '12a, 12b, 12c, 12d', 'E12-13', 'C11', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Bs: Aufgaben bei iServ']",12d
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",12d
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",13a
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",13b
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",13c
+"['9 - 10', '15:30-17:00', '11a, 11b, 11c, 11d, 12a, 12b, 12d, 13a, 13b, 13c, 13d', 'Spo', 'Halle1, Halle2', '<span class=""substMonitorSubstElem"">---</span>', '', 'Kurs Yoga/Badminton (Bu): Selbstständiges Training']",13d
+"['1 - 2', '08:00-09:30', '6a', 'BK', '<span class=""substMonitorSubstElem"">G02</span> (G07)', '<span class=""substMonitorSubstElem"">Nu</span>', '', '1./2. Std. Betreuung im Q-Raum (soweit notwendig)']",6a
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",6a
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",6b
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",6b
-"['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G11)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Do it yourself (Stat): Betreuung im Q-Raum soweit notwendig']",6b
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",6b
-"['2', '08:45-09:30', '6c', 'FöEs', '<span class=""substMonitorSubstElem"">A001</span> (A003)', 'Pin', 'Raum&auml;nderung', '']",6c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",6c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",6c
-"['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G11)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Do it yourself (Stat): Betreuung im Q-Raum soweit notwendig']",6c
+"['2', '08:45-09:30', '6c', 'FöEs', 'A003', '<span class=""substMonitorSubstElem"">Pu</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",6c
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",6c
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G05)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Tiktok Dance (EntM): Betreuung im Q-Raum soweit notwendig']",6d
-"['7 - 8', '13:55-15:25', '5a, 5b, 5c, 5d, 5e, 5f, 5g, 6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (A108)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Brett- und Kartenspiele (Mac): Betreuung im Q-Raum soweit notwendig']",6d
-"['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (G11)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Kurs Do it yourself (Stat): Betreuung im Q-Raum soweit notwendig']",6d
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",6d
-"['2', '08:45-09:30', '6e', 'Ink', 'A009', '<span class=""substMonitorSubstElem"">Kh</span>', '', '']",6e
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7a
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7a
-"['1', '08:00-08:45', '7b, 7d', 'FöM', '<span class=""substMonitorSubstElem"">A202</span> (A201)', '<span class=""substMonitorSubstElem"">Hg</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",7b
-"['2', '08:45-09:30', '7b', 'FöM', 'A202', '<span class=""substMonitorSubstElem"">Hg</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",7b
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7b
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7b
-"['5', '11:50-12:35', '7c', 'Phy', 'F105', '<span class=""substMonitorSubstElem"">Wa</span>', '', '']",7c
-"['6', '12:40-13:25', '7c', 'Phy', 'F105', '<span class=""substMonitorSubstElem"">Ka</span>', '', '']",7c
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7c
-"['1', '08:00-08:45', '7b, 7d', 'FöM', '<span class=""substMonitorSubstElem"">A202</span> (A201)', '<span class=""substMonitorSubstElem"">Hg</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",7d
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7d
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7d
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7e
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7e
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7f
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7f
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7g
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7g
-"['3 - 4', '09:50-11:20', '7a, 7b, 7d, 7e, 7f, 7g, 7h', 'SprW', 'A210', '<span class=""substMonitorSubstElem"">Cos</span>', '', '']",7h
 "['7 - 8', '13:55-15:25', '6a, 6b, 6c, 6d, 7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h', 'GTS', '<span class=""substMonitorSubstElem"">G02</span> (Halle2)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Volleyball-Schulmannschaft (Rav): Betreuung im Q-Raum soweit notwendig']",7h
-"['1 - 2', '08:00-09:30', '8a', 'Ink', 'H101', '<span class=""substMonitorSubstElem"">Scm</span>', '', '']",8a
-"['3 - 4', '09:50-11:20', '8a', 'Ink', 'H101', '<span class=""substMonitorSubstElem"">Sat</span>', '', '']",8a
-"['5 - 6', '11:50-13:25', '8b', 'Ink', 'H104', '<span class=""substMonitorSubstElem"">Sat</span>', '', '']",8b
-"['7', '13:55-14:40', '8b', 'Ink', 'H104', '<span class=""substMonitorSubstElem"">Grue</span>', '', '']",8b
-"['8', '14:40-15:25', '8b', 'Ink', '<span class=""substMonitorSubstElem"">G02</span> (H104)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Betreuung im Q-Raum soweit notwendig']",8b
-"['8', '14:40-15:25', '8b', 'E5-10', '<span class=""substMonitorSubstElem"">G02</span> (H104)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Betreuung im Q-Raum soweit notwendig']",8b
-"['4', '10:35-11:20', '8d', 'FöM', 'H109', '<span class=""substMonitorSubstElem"">Ul</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",8d
-"['1 - 2', '08:00-09:30', '8g', 'D7-10', 'H115', '<span class=""substMonitorSubstElem"">Nu</span>', '', '1./2. Std. Betreuung im Q-Raum (soweit notwendig)']",8g
-"['3', '09:50-10:35', '8g', 'Stud', 'H115', '<span class=""substMonitorSubstElem"">Uh</span>', '', '']",8g
-"['7', '13:55-14:40', '8g', 'M5-10', 'H115', '<span class=""substMonitorSubstElem"">Kor</span>', '', '']",8g
-"['8', '14:40-15:25', '8g', 'KlaRat', '<span class=""substMonitorSubstElem"">G02</span> (H115)', '<span class=""substMonitorSubstElem"">Nu</span>', '', 'Betreuung im Q-Raum soweit notwendig']",8g
-"['1 - 2', '08:00-09:30', '9d', 'M5-10', 'H011', 'Ca', 'Entfall', '']",9d
-"['4', '10:35-11:20', '9g', 'Ges7-10', 'H215', '<span class=""substMonitorSubstElem"">Go</span>', '', '']",9g
-"['4', '10:35-11:20', 'SAZ', 'BEN', 'G02', '<span class=""substMonitorSubstElem"">Kr</span>', '', '']",SAZ
-"['6', '12:40-13:25', 'SAZ', 'BEN', 'G02', '<span class=""substMonitorSubstElem"">Fen</span>', '', '']",SAZ
+"['3', '09:50-10:35', '8c', 'FöEs', 'H105', '<span class=""substMonitorSubstElem"">Vol</span>', '', 'Schüler aus dem Förderkurs gehen in den Klassenunterricht']",8c
+"['1 - 2', '08:00-09:30', '9a', 'Ges7-10', 'H014', 'Dar', 'Entfall', '']",9a
+"['8', '14:40-15:25', '9c', 'Ges7-10', 'H009', 'Dar', 'Entfall', '']",9c
+"['1 - 2', '08:00-09:30', '9g', 'M5-10', 'H215', '<span class=""substMonitorSubstElem"">Bl</span>', '', '']",9g
